@@ -9,7 +9,7 @@
 
   <body>
 
-  Це сама проста Web-сторінка.
+  My WEB page
 
   </body>
 
